@@ -1,6 +1,6 @@
 - # Hi, I’m Héctor soy buzo profesional y actualentne estudio desarrollo en aplicaciones web porque siempre me ha llamado mucho la atención y lamentablemente no creo que nadie se pueda jubilar de buzo.
 - ---
--![foto buceando con medusa](https://github.com/Educahector/Educahector/blob/main/foto%20buceo.jpg))
+-![foto buceando con medusa](https://github.com/Educahector/Educahector/blob/main/foto%20buceo.jpg)
 - ---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
