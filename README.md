@@ -6,26 +6,31 @@
   ![foto buceando con medusa](https://github.com/Educahector/Educahector/blob/main/foto%20buceo.jpg)
 [Medusa melena de leon](https://es.wikipedia.org/wiki/Cyanea_capillata. "La mas grande del mundo")
 
-- 🌱Actualmente he empezado el curso de desarrollo en palicaciones web, ya que siempre me han gustado mucho los ordenadores, y me entusiasma el poder escribir ~~frases~~ ____codigos____ para que despues se convierta en algo funcional.
-- 👀Mis **Motivos** por el cual he decidido estudiar este grado superior son:
-- ---
-  1. Por la degeneración del cuerpo humano al estar sometido a presion.
-  2. Siempre me han gutado los ordenadores y me llama mucho la atencion la programmación y como evoluciona la tecnología.
-  3. Siempre hay que tener un plan B, C, y incluso D.
-  4. Actualmente creo que una persona no puede terminar su carrera profesional en este sector.
+- 🌱Actualmente he empezado el curso de desarrollo en palicaciones web, ya que siempre me han gustado mucho los ordenadores, y me entusiasma el poder escribir "~~frases~~" ***codigos*** para que despues se convierta en algo funcional.
+----
+
+- 👀Mis **Motivos** por el cual he decidido estudiar este grado superior son:  
+1. Por la degeneración del cuerpo humano al estar sometido a presion.
+   * Fisica
+   * Mental
+3. Siempre me han gutado los ordenadores y me llama mucho la atencion la programmación y como evoluciona la tecnología.
+4. Siempre hay que tener un plan B, C, y incluso D.
+5. Actualmente creo que una persona no puede terminar su carrera profesional en este sector.
 ---
+
+- ⚡ En este trimestre tendremos varias tareas:
+- [x] Tarea de crear Github.
+- [ ] Tarea 2
+- [ ] Tarea 3
+
+- 😄 Pronouns: ...
+
 - 📫 Para ponerse en contacto conmigo:
   
  |Mañanas|Tardes|Noches|
  |:---|:---:|---:|
  |Email|Llamadas|Whatsapp|
-
-- 😄 Pronouns: ...
-- ⚡ En este trimestre tendremos varias tareas:
-- [x] Tarea de crear Github.
-- [ ] Tarea 2
-- [ ] Tarea 3
-- 👀 
+  > Me encanta mi trabajo pero se que no durare eternamente
 
 <!---
 Educahector/Educahector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
