@@ -15,9 +15,11 @@
   4. Actualmente creo que una persona no puede terminar su carrera profesional en este sector.
 ---
 - 📫 Para ponerse en contacto conmigo:
+- 
  |Mañanas|Tardes|Noches|
  |:---|:---:|---:|
  |Email|Llamadas|Whatsapp|
+
 - 😄 Pronouns: ...
 - ⚡ En este trimestre tendremos varias tareas:
 - [x] Tarea de crear Github.
