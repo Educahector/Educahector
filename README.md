@@ -27,7 +27,7 @@
  |Mañanas|Tardes|Noches|
  |:---|:---:|---:|
  |[Email](Mailto:HectorDive@yahoo.com)|[Whatsapp](https://wa.me/654343240)|[Instagram](https://www.instagram.com/Hectordiver)|
-  > Me encanta mi trabajo pero se que no durare eternamente. "Hector"
+  > Me encanta mi trabajo pero se que no durare eternamente. "Héctor García"
 
 <!---
 Educahector/Educahector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
