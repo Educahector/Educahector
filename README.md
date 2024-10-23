@@ -14,8 +14,8 @@
 
  - ### Mi Stack tecnologico conocido es:
  - Lenguajes:
-   * [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-   * [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   * [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=Kd5GiBcjSfY)
+   * [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
  - Inteligencia artificial:
    * [![Perplexity](https://img.shields.io/badge/Perplexity-5A67D8?style=flat&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
  
