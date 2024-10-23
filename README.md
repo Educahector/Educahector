@@ -1,6 +1,6 @@
  # 👋Hola, mi nombre es  Héctor García Parellada.
 - ---
-  ## Nací en Barcelona y desde hace 7 años soy buzo profesional. Este 2024  he decidido estudiar desarrollo en aplicaciones web en [CIFPD La Conservera](https://sites.google.com/view/fplaconservera) en Ceutí ya que este grado superior siempre me ha llamado mucho la atención. Mi trabajo es emocionante pero lamentablemente, por el esfuerzo físico que requiere y la peligrosidad, es muy dificil llegar a la jubilación sin lesiones o problemas de salud.
+  ## Nací en Barcelona y desde hace 7 años soy buzo profesional. Este 2024  he decidido estudiar desarrollo en aplicaciones web en [CIFPD La Conservera extensión IES Los Albares](https://sites.google.com/view/fplaconservera) en Ceutí ya que este grado superior siempre me ha llamado mucho la atención. Mi trabajo es emocionante pero lamentablemente, por el esfuerzo físico que requiere y la peligrosidad, es muy dificil llegar a la jubilación sin lesiones o problemas de salud.
 - ---
  🌊 He trabajado en varias empresas y varias fundaciones como [Oceana](https://oceana.org/) Esta me permitió hacer una expedición por el Mar del Norte, donde pude contemplar especies **increibles**, les dejo una foto mia con la medusa con los tentaculos mas largos del mundo.
   ![foto buceando con medusa](https://github.com/Educahector/Educahector/blob/main/foto%20buceo.jpg)
