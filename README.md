@@ -29,7 +29,8 @@
   
  |Mañanas|Tardes|Noches|
  |:---|:---:|---:|
- |Email|Llamadas|Whatsapp|
+ |Email|Llamadas|Instagram|
+ |HectorDm@yahoo.com|67898732|#Hectordiver|
   > Me encanta mi trabajo pero se que no durare eternamente
 
 <!---
