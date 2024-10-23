@@ -37,9 +37,11 @@
 ### 📫 Para ponerse en contacto conmigo:
   
  |Mañanas|Tardes|Noches|
- |:---|:---:|---:|
+ |:---:|:---:|---:|
  |[Email](Mailto:HectorDive@yahoo.com)|[Whatsapp](https://wa.me/65434320)|[Instagram](https://www.instagram.com/Hectordiver)|
-  > Me encanta mi trabajo pero se que no durare eternamente. "Héctor García"
+
+ 
+  > Me encanta mi trabajo pero sé que no durará eternamente. "Héctor García"
 
 <!---
 Educahector/Educahector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
