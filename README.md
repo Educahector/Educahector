@@ -32,11 +32,11 @@
 
 - En este trimestre tendremos varias tareas usando diferentes tecnologías:
 - [x] Tarea de crear Github con Markdown.
-- [ ] Crear un mapa conceptual de sistemas con draw.io
-- [ ] Aprender mas sobre Mongodb.
-- [ ] Crear una página web con html5
+- [ ] Crear un mapa conceptual de sistemas con draw.io.
+- [ ] Ampliar conocimientos en Cassandra.
+- [ ] Crear una página web con html5.
 
- ## Mis preferencias tecnologicas para lo poco que se al respecto podrian ser:
+ ## Mis preferencias tecnológicas con mis conocimientos actuales son: 
    - Frontend.
    - Bases de datos.
    - Cyberseguridad.
