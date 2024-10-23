@@ -12,7 +12,7 @@
 3. [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
 4. [Ingles profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
 
- - ### Mi Stack tecnologico conocido es:
+  ### Mi Stack tecnológico conocido es:
  - Lenguajes:
    * [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=Kd5GiBcjSfY)
    * [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
