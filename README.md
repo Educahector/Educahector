@@ -1,12 +1,12 @@
- # 👋Hola, mi nombre es  Héctor.
+ # 👋Hola, mi nombre es  Héctor García Parellada.
 - ---
--  ## Soy buzo profesional y actualentne estudio desarrollo en aplicaciones web porque siempre me ha llamado mucho la atención y lamentablemente no creo que nadie se pueda jubilar de buzo.''
+-  ## Nací en Barcelona y desde hace 7 años soy buzo profesional. Este 2024  he decidido estudiar desarrollo en aplicaciones web porque es algo que siempre me ha llamado mucho la atención. Mi trabajo es emocionante pero lamentablemente, por el esfuerzo físico que requiere y la peligrosidad, es muy dificil llegar a la jubilación sin lesiones o problemas de salud''
 - ---
-- 💞️ He trabajado en varias empresas y varias fundaciones como [Oceana](https://oceana.org/), que me permitio hacer una expedición por el mar del norte donde pude contemplar especies **increibles**, les dejo una foto mia con la medusa con los tentaculos mas largos del mundo.
+- 💞️ He trabajado en varias empresas y varias fundaciones como [Oceana](https://oceana.org/) Esta me permitió hacer una expedición por el Mar del Norte, donde pude contemplar especies **increibles**, les dejo una foto mia con la medusa con los tentaculos mas largos del mundo.
   ![foto buceando con medusa](https://github.com/Educahector/Educahector/blob/main/foto%20buceo.jpg)
-[Medusa melena de leon](https://es.wikipedia.org/wiki/Cyanea_capillata. "La mas grande del mundo")
+[Medusa melena de leon (*Cyanea capillata*)](https://es.wikipedia.org/wiki/Cyanea_capillata. "La mas grande del mundo")
 
-- 🌱Actualmente he empezado el curso de desarrollo en palicaciones web, ya que siempre me han gustado mucho los ordenadores, y me entusiasma el poder escribir "~~frases~~" ***codigos*** para que despues se convierta en algo funcional.
+- 🌱Actualmente he empezado el curso de desarrollo en aplicaciones web, ya que siempre me han gustado mucho los ordenadores; y me entusiasma el poder escribir "~~frases~~" ***codigos*** para que despues se conviertan en algo funcional.
 ----
 
 - 👀Mis **Motivos** por el cual he decidido estudiar este grado superior son:  
