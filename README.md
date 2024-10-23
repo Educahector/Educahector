@@ -26,7 +26,7 @@
   
  |Mañanas|Tardes|Noches|
  |:---|:---:|---:|
- |[Email](Mailto:HectorDive@yahoo.com)|[Whatsapp](https://wa.me/654343240)|[Instagram](https://www.instagram.com/Hectordiver)|
+ |[Email](Mailto:HectorDive@yahoo.com)|[Whatsapp](https://wa.me/65434320)|[Instagram](https://www.instagram.com/Hectordiver)|
   > Me encanta mi trabajo pero se que no durare eternamente. "Héctor García"
 
 <!---
